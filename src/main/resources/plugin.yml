@@ -1,0 +1,7 @@
+name: RoseBushDamage
+version: '1.0-SNAPSHOT'
+main: com.github.eisblume2000.roseBushDamage.RoseBushDamage
+api-version: '1.20'
+authors: [ Eisblume-2000 ]
+description: RoseBush now does Damage!
+website: https://github.com/Eisblume-2000
